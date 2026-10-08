@@ -1,0 +1,12 @@
+.git
+.env
+.env.*
+**/.env
+**/.env.*
+**/node_modules
+**/dist
+**/.venv
+**/__pycache__
+Backend/user_state.json
+Backend/user_state.tmp
+Backend/*.log

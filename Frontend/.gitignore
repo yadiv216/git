@@ -1,0 +1,12 @@
+node_modules/
+dist/
+.env
+.env.local
+.env.*.local
+.DS_Store
+.vscode/
+backend/user_state.json
+backend/user_state.tmp
+backend/.venv/
+backend/__pycache__/
+backend/*.log
